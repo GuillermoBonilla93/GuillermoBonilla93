@@ -20,7 +20,7 @@ Me apasiona el desarrollo de **SaaS**, la seguridad informática y la integraci�
 
 ## 🌐 Conecta conmigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-bonilla-montoya-a43468158?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?logo=vercel&logoColor=white)](https://tu-dominio.com)
+[![Mi pagina](https://img.shields.io/badge/-Portfolio-FF5722?logo=vercel&logoColor=white)](https://pgtechnologyhn.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:guillermobonilla430@gmail.com)
 
 
