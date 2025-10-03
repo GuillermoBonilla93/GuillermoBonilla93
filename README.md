@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hola, soy Guillermo Bonilla  
 
-<!--
-**GuillermoBonilla93/GuillermoBonilla93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Ingeniero en Sistemas | Fullstack Developer  
+🚀 Trabajo con **React, Node.js, PHP, Python y Docker**  
+🎯 Apasionado por el desarrollo de SaaS y DevOps  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías que uso
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)
+
+---
+
+## 📊 Estadísticas de GitHub
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=GuillermoBonilla93&show_icons=true&theme=radical)
+
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillermoBonilla93&layout=compact&theme=radical)
+
