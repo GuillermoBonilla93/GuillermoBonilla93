@@ -1,7 +1,9 @@
-## 👨‍💻 Sobre mí
-Soy **Ingeniero en Sistemas** y **Fullstack Developer** con experiencia en React, Node.js, PHP, Python y DevOps.  
-Actualmente trabajo en la **Universidad Católica de Honduras (UNICAH)** desarrollando sistemas académicos y administrativos.  
-Me apasiona el desarrollo de **SaaS**, la seguridad informática y la integración de **IA en aplicaciones**.
+## 👋 Sobre mí  
+
+Soy **Ingeniero en Sistemas** y **Desarrollador Fullstack** con experiencia en **React, Node.js, PHP, Python y C++**, especializado en crear aplicaciones web y móviles escalables.  
+
+Me interesa especialmente el **diseño de arquitecturas SaaS**, la **automatización con DevOps** y la **integración de servicios cloud** como **AWS, Firebase y Contabo**.  
+
 
 
 ---
@@ -22,7 +24,6 @@ Me apasiona el desarrollo de **SaaS**, la seguridad informática y la integraci�
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)  
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)  
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)  
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=fff)  
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=fff)  
