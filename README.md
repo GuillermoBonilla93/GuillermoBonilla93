@@ -16,7 +16,9 @@
 ---
 
 ## 📊 Estadísticas de GitHub
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=GuillermoBonilla93&show_icons=true&theme=radical)
 
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillermoBonilla93&layout=compact&theme=radical)
+![Guillermo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuillermoBonilla93&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillermoBonilla93&layout=compact&theme=radical)
+
 
