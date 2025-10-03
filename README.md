@@ -10,8 +10,7 @@ Me apasiona el desarrollo de **SaaS**, la seguridad informática y la integraci�
 
 ### 🌐 Frontend  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)   
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)  
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)  
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff)  
@@ -26,12 +25,15 @@ Me apasiona el desarrollo de **SaaS**, la seguridad informática y la integraci�
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=fff)  
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=fff)  
 
 ---
 
 ### 🗄️ Bases de Datos  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff)  
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)   
 
 ---
 
@@ -42,9 +44,12 @@ Me apasiona el desarrollo de **SaaS**, la seguridad informática y la integraci�
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)  
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000)  
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=fff)  
+
+---
+
+### ☁️ Cloud & BaaS  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000)  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=fff)  
-
-
 
 ---
 
