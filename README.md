@@ -2,7 +2,10 @@
 
 Soy **Ingeniero en Sistemas** y **Desarrollador Fullstack** con experiencia en **React, Node.js, PHP, Python y C++**, especializado en crear aplicaciones web y móviles escalables.  
 
+Apasionado por el **desarrollo de SaaS**, la **seguridad informática** y la **aplicación de inteligencia artificial** en soluciones modernas.  
+
 Me interesa especialmente el **diseño de arquitecturas SaaS**, la **automatización con DevOps** y la **integración de servicios cloud** como **AWS, Firebase y Contabo**.  
+
 
 
 
@@ -53,6 +56,14 @@ Me interesa especialmente el **diseño de arquitecturas SaaS**, la **automatizac
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=fff)  
 ![Contabo](https://img.shields.io/badge/-Contabo-1E90FF?logo=icloud&logoColor=fff)
  
+---
+
+### 🤖 Inteligencia Artificial & Data  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=fff)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=fff)  
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=fff)  
+![Ollama](https://img.shields.io/badge/-Ollama-000000?logo=ai&logoColor=white)  
+![Gemma](https://img.shields.io/badge/-Gemma-4285F4?logo=google&logoColor=white)  
 
 ---
 
