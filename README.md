@@ -50,6 +50,8 @@ Me apasiona el desarrollo de **SaaS**, la seguridad informática y la integraci�
 ### ☁️ Cloud & BaaS  
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000)  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=fff)  
+![Contabo](https://img.shields.io/badge/-Contabo-1E90FF?logo=icloud&logoColor=fff)
+ 
 
 ---
 
