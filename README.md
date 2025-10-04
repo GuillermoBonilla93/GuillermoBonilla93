@@ -6,8 +6,11 @@ Apasionado por el **desarrollo de SaaS**, la **seguridad informática** y la **a
 
 Me interesa especialmente el **diseño de arquitecturas SaaS**, la **automatización con DevOps** y la **integración de servicios cloud** como **AWS, Firebase y Contabo**.  
 
+---
 
+## ko-fi
 
+https://ko-fi.com/gbonilla
 
 ---
 
