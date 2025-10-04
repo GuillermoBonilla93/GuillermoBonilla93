@@ -8,7 +8,7 @@ Me interesa especialmente el **diseño de arquitecturas SaaS**, la **automatizac
 
 ---
 
-## 👋 ko-fi
+## ☕ ko-fi
 
 https://ko-fi.com/gbonilla
 
